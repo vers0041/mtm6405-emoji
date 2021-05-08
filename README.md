@@ -1,2 +1,6 @@
-# mtm6405-emoji
-This repository contains the starter files for the Emoji project. 
+# Emoji
+
+## Objective
+Use PHP to create an Emoji gallery.
+
+
